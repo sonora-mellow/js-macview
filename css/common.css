@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.inner {
+	width: 600px;
+	margin: 0 auto;
+}
+
+/*----------macview.js----------*/
+.macview_btn {
+	width: 100px;
+	margin: 20px auto;  
+	padding: 10px 20px;
+	background-color: #800eac;
+	border-radius: 10px;
+	color: #fff;
+	text-align: center;
+}
+.macview_folder {
+	position: relative;
+}
+
+.macview_folder img{
+	width: 100%; 	
+}
